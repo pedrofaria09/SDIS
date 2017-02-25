@@ -1,6 +1,10 @@
 .metadata/
+TP01/bin/
+TP01/.settings/
+TP02/.settings/
 RemoteSystemsTempFiles/.project
 TP01/.classpath
 TP01/.project
-TP01/.settings/org.eclipse.jdt.core.prefs
-TP01/bin/
+TP02/.classpath
+TP02/.gitignore
+TP02/.project
